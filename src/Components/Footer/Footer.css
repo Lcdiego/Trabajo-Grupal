@@ -1,0 +1,87 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barrio&display=swap');
+
+*:root{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.contenedor_Footer{
+    display: flex;
+    flex-direction: column;
+    background-color:rgb(255,193,7) ;
+    width: 100vw;
+    height: 26vh;
+    display: flex;
+}
+
+.contenedor_Menu{
+    width: 100vw;
+    display: flex;
+}
+
+.menuFooter{
+    width: 60vw;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.menu{
+    width: 10vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.tituloAnclas{
+    color: rgb(120,92,10);
+    font-size: 10px;
+    margin-bottom: 3px;
+}
+
+.anclas{
+    color:rgb(189,145,7);
+    font-size: 10px;
+}
+
+.contenedorRedes{
+    width: 100vw;
+    
+}
+
+.redes_Footer{
+    width: 40vw;
+}
+
+.titulo_redes{
+    font-family: 'Barrio', cursive;
+    margin-bottom: 10px;
+    font-size: 23px;
+}
+
+.redes{
+    color:rgb(134,103,18) ;
+    margin-left:  6px;
+    font-size: 15px;
+}
+
+.raya{
+
+    width: 100vw;
+    height: 1px;
+    background-color: black;
+    margin-top: 37px;
+}
+
+.parrafoFooter{
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+    color: rgb(192,147,6);
+}
+
+
+
+
+
+
